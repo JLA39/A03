@@ -17,4 +17,7 @@
 # Merge: A command that combines several branches to be converted into one branch
 # Merge Conflict: The occurrence where a merge does not occur, so GIT needs the user's guidance on what to place into the final merge
 # Fetch: A command that will download the user's latest altered information (without merging) from the remote repository into a local repository
-# Remote: A repository where several people can share, edit, and view each other's changes 
+# Remote: A repository where several people can share, edit, and view each other's changes
+
+#Please note: I, alongside many other classmates (such as Ibrahim - who emailed you about it) were unable to download the applications from last week's class; in which, you said we would go over the downloading process/bug problem in class Monday, February 17, 2020.
+# My attempt (at least): In this tutorial, the user will learn how to get access to GIT and Github using an IDE. For the first step, the user must download GIT and Webstorm. While these system softwares are downloading, the user will create and set up their own GitHub account at www.Github.com. On this site, the user will then create a repository and clone it on their local machine. It is essential for the user to link their GitHub account to their choice of an IDE - and finally, if everything is downloaded and set up, then the user should be all set.
