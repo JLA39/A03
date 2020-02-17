@@ -13,3 +13,8 @@
 # Commit: A command that saves file changes, with GIT keeping track of each time when and by whom it was lasted altered by
 # Push: A command that uploads locally-stored content to a remote repository
 # Pull: A command that is the reverse of the "push" command, whereas, it downloads the information from the remote repository into the local repository
+# Branch: A command that allows developers to pull coding from the original coding so they can individually edit their work, and even possibly merge their content as well
+# Merge: A command that combines several branches to be converted into one branch
+# Merge Conflict: The occurrence where a merge does not occur, so GIT needs the user's guidance on what to place into the final merge
+# Fetch: A command that will download the user's latest altered information (without merging) from the remote repository into a local repository
+# Remote: A repository where several people can share, edit, and view each other's changes 
